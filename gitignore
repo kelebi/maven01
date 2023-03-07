@@ -1,1 +1,4 @@
 target/*
+.classpath
+.project
+cd002-0.0.-SNAPSHOT.jar
